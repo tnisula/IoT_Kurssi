@@ -1,0 +1,18 @@
+
+
+DS 18B20-lämpötila-anturi johdolla 1m (1 metrin pituinen)   
+hinta 6.45 euroa 
+linkki  https://www.elektroniikkaosat.com/c-67/p-352463856/DS18B20-lampotila-anturi-johdolla-i-useita-vaihtoehtoja-i.html
+
+Adafruit Raspberry Pi GPIO T-Cobbler Breakout
+hinta 12,90 euroa
+linkki  http://ihmevekotin.fi/category/121_breakout-boards
+
+koekytkentäalusta 400
+hinta 5.95 euroa
+linkki  https://www.elektroniikkaosat.com/c-93/p-196442345/Koekytkentaalusta-400.html
+
+hyppylankalajitelma 65 kpl
+hinta 4.95 euroa
+linkki  https://www.elektroniikkaosat.com/c-93/p-490620411/Hyppylankalajitelma-65-kpl.html
+
