@@ -1,2 +1,2 @@
 # IoT_Kurssi
-Internet of Things Master-course
+Internet of Things Master-kurssin tiedostoja.
