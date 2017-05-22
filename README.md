@@ -1,2 +1,2 @@
 # IoT_Kurssi
-Internet of Things Master-kurssin tiedostoja.
+Files of my own project in Internet of Things Master-course.
