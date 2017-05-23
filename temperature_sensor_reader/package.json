@@ -1,0 +1,21 @@
+{
+  "name": "TempSensor",
+  "version": "1.0.0",
+  "description": "Temperature Measurement Project",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.9.8",
+    "node-static": "^0.7.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Raspberry"
+  ],
+  "author": "Timo Nisula",
+  "license": "ISC"
+}
