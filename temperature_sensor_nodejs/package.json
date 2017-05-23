@@ -1,0 +1,29 @@
+{
+  "name": "temperature_sensor_nodejs",
+  "version": "1.0.0",
+  "description": "Temperature measurement using nodejs, mongodb, express and angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timo Nisula",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.27",
+    "mongoose": "^4.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tnisula/IoT_Kurssi"
+  },
+  "keywords": [
+    "Nodejs",
+    "MongoDb",
+    "Express"
+  ],
+  "bugs": {
+    "url": "https://github.com/tnisula/IoT_Kurssi/issues"
+  }
+}

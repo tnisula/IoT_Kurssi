@@ -1,0 +1,14 @@
+<div ng-controller="TempController">
+		<br>
+		Search for temperature:
+		<input type="text" ng-model="tempFilter"></input>
+		<br>
+		<button ng-click="getTemps()">Show</button>
+		<hr>
+		Temperature data list:
+		<ul>
+			<li ng-repeat="temp in temps | filter:tempFilter">
+			At {{temp.dateandtime}} temperature {{temp.value}} C
+			</li>
+		</ul>
+</div>
